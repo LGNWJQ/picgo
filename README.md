@@ -1,4 +1,6 @@
 # picgo
 typora博客图床
 
-`![](https://raw.githubusercontent.com/LGNWJQ/picgo/main/img/)`
+```html
+![](https://raw.githubusercontent.com/LGNWJQ/picgo/main/img/)
+```
